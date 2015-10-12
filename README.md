@@ -3,8 +3,7 @@ Implementation of a Fenwick tree as described by Peter M. Fenwick. It will
 pass [Kattis](https://open.kattis.com/problems/fenwick).
 
 ## How-to
-For running tests you will need [Google C++ Testing
-Framework](https://code.google.com/p/googletest/) and [Google C++ Mocking
+For running tests you will need [Google C++ Mocking
 Framework](https://code.google.com/p/googlemock/). Build with
 [SCons](http://www.scons.org) from root directory.
 
